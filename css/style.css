@@ -1,0 +1,148 @@
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+.mybanner{
+color: brown;
+font-size: 40px;
+font-weight: 400;
+}
+
+
+
+.banner{
+    color: black;
+    padding-top: 30px;
+   margin-left: 40px;
+   font-size: 15px;
+font-weight: 600;
+padding-right: 40px;
+margin: right 40px;
+}
+
+
+.mybutton{
+    font-family: "Poppins", sans-serif;
+font-size: 16px;
+font-weight: 400;
+background-color: #dd131a;
+color: #ffffff;
+border-radius: 10px;
+padding: 15px 30px;
+
+margin-left: 50px;
+}
+
+.mycol{
+ color: #555555;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 200px;
+}
+
+.mycol2{
+     font-size: 85px;
+font-family: "Poppins", sans-serif;
+color: #0c1a3c;
+margin-bottom: 40px;
+font-weight: 700;
+margin-top: 30px;
+margin-right: 40px;
+}
+
+
+.mycol3{
+    font-size: 16px;
+color: #555555;
+line-height: 1.8;
+font-weight: 400;
+padding-bottom: 20px;
+
+}
+
+
+.mylink{
+    border-radius: 0;
+    font-weight: 500;
+    font-size: 15px;
+    font-family: "Roboto", sans-serif;
+    background-color: #dd131a;
+color: #ffffff;
+padding: 15px 30px;
+text-decoration: none;
+  }
+
+
+  .myimg{
+    height: 600px;
+    width: 600px;
+    margin: 150px;
+    padding-right: 50px;
+  }
+
+
+  .myspan{
+    padding-left: 700px;
+    font-size: 16px;
+color: #dd131a;
+font-weight: 500;
+
+margin-bottom: 10px;
+font-family: "Roboto", sans-serif;
+  }
+
+
+  .mylone{
+    font-size: 40px;
+font-family: "Poppins", sans-serif;
+color: #0c1a3c;
+font-weight: 700;
+  }
+
+
+  .mypictuer{
+   
+max-width: 100%;
+  }
+
+
+  .mypara{
+    font-size: 16px;
+    color: #555555;
+  }
+
+
+  .mylink1{
+    background-color: #dd131a;
+    color: #ffffff;
+    padding: 15px 30px;
+    -webkit-transition: all ease 0.5s;
+    transition: all ease 0.5s;
+    border-radius: 0;
+    font-weight: 500;
+    font-size: 15px;
+    font-family: "Roboto", sans-serif;
+margin-left: 600px;
+text-decoration: none;
+margin-bottom: 50px;
+border-radius: 0;
+
+
+  }
+
+  .mydonate{
+    background-color: #0c1a3c;
+color: #ffffff;
+transition: all ease 0.5s;
+border-radius: 0;
+font-weight: 500;
+font-size: 15px;
+font-family: "Roboto", sans-serif;
+padding: 15px 30px;
+margin-bottom: 50px;
+margin-left: 30px;
+  }
