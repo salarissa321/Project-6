@@ -126,7 +126,7 @@ max-width: 100%;
     font-weight: 500;
     font-size: 15px;
     font-family: "Roboto", sans-serif;
-margin-left: 600px;
+margin-left: 500px;
 text-decoration: none;
 margin-bottom: 50px;
 border-radius: 0;
@@ -135,7 +135,7 @@ border-radius: 0;
   }
 
   .mydonate{
-    background-color: #0c1a3c;
+  background-color: #0c1a3c;
 color: #ffffff;
 transition: all ease 0.5s;
 border-radius: 0;
@@ -145,4 +145,64 @@ font-family: "Roboto", sans-serif;
 padding: 15px 30px;
 margin-bottom: 50px;
 margin-left: 30px;
+  }
+
+  .mybild{
+    max-width: 80%;
+    vertical-align: middle;
+    box-sizing: border-box;
+    margin-left: 50px;
+  }
+
+  .myspan2{
+    color: #dd131a;
+display: inline-block;
+margin-bottom: 15px;
+font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 400;
+  }
+
+  .mytitel{
+    font-size: 40px;
+margin-bottom: 25px;
+font-family: "Poppins", sans-serif;
+color: #0c1a3c;
+font-weight: 700;
+margin-top: 0;
+line-height: 1.2;
+  }
+
+  .mysentence{
+    font-family: "Roboto", sans-serif;
+margin-bottom: 20px;
+font-size: 16px;
+color: #555555;
+line-height: 1.8;
+margin-top: 0;
+
+  }
+
+
+  .mybtn{
+    transition: all ease 0.5s;
+    border-radius: 0;
+    font-weight: 500;
+    font-size: 15px;
+    font-family: "Roboto", sans-serif;
+    background-color: #dd131a;
+color: #ffffff;
+padding: 15px 30px;
+margin-right: 15px;
+text-decoration: none;
+text-align: center;
+text-decoration: none;
+vertical-align: middle;
+cursor: pointer;
+display: inline-block;
+  }
+
+  .mybtn:hover{
+    background-color: #0c1a3c;
+    color: white;
   }
